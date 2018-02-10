@@ -14,6 +14,7 @@ pwr f5d04c 4 4 4 4 4
 vlt f5d04c 800 800 850 800 800
 autoreboot 3
 
+reb f5d04c 1
 
 # ethOS Pool: ethosdistro.com/pool
 # QUICK START GUIDE: ethosdistro.com/Q
