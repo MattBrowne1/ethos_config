@@ -1,10 +1,19 @@
 maxgputemp 85
 stratumproxy enabled
-proxywallet 0x0bdC4F12fB57d3acA9C3cF72B7AA2789A20d27f2
-proxypool1 pool-usa.ethosdistro.com:5001
-proxypool2 pool-eu.ethosdistro.com:5001
+proxywallet 97fee5adbbf58374ae54a4a085be5a099e47653a
+proxypool1 eu1.ethermine.org:4444
+proxypool2 us1.ethermine.org:4444
 flags --cl-global-work 8192 --farm-recheck 200
-globalfan 85
+#globalfan 30
+globalminer claymore
+
+cor f5d04c 1100 1100 1100 1100 1100
+mem f5d04c 2100 2100 2100 2100 2100
+#fan f5d04c 30 30 30 30 30
+pwr f5d04c 4 4 4 4 4
+vlt f5d04c 800 800 800 800 800
+autoreboot 3
+
 
 # ethOS Pool: ethosdistro.com/pool
 # QUICK START GUIDE: ethosdistro.com/Q
