@@ -9,6 +9,7 @@ flags --cl-global-work 8192 --farm-recheck 200 -i 6
 #globalfan 30
 #globalminer claymore
 globalminer claymore-zcash
+poolpass1 x
 
 cor f5d04c 1100 1100 1100 1100 1100
 mem f5d04c 2100 2100 2100 2100 2100
