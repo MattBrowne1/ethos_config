@@ -4,7 +4,7 @@ stratumproxy enabled
 proxywallet t1MbtuQ6YuXqxosMe4gTVvfDfdSj78UsUCJ
 #proxypool1 eu1.ethermine.org:4444
 #proxypool2 us1.ethermine.org:4444
-proxypool1 stratum+tcp://btcz.suprnova.cc:5586
+proxypool1 btcz.suprnova.cc:5586
 flags --cl-global-work 8192 --farm-recheck 200
 #globalfan 30
 #globalminer claymore
