@@ -5,7 +5,7 @@ proxywallet matt@matthewbrowne.com
 #proxypool1 eu1.ethermine.org:4444
 #proxypool2 us1.ethermine.org:4444
 proxypool1 btcz.suprnova.cc:5586
-flags --cl-global-work 8192 --farm-recheck 200
+flags --cl-global-work 8192 --farm-recheck 200 -i 6
 #globalfan 30
 #globalminer claymore
 globalminer claymore-zcash
