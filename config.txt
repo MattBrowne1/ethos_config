@@ -1,15 +1,16 @@
 maxgputemp 85
 stratumproxy enabled
-#proxywallet 97fee5adbbf58374ae54a4a085be5a099e47653a
-proxywallet Browneout
-#proxypool1 eu1.ethermine.org:4444
-#proxypool2 us1.ethermine.org:4444
-proxypool1 btcz.suprnova.cc:5586
-flags --cl-global-work 8192 --farm-recheck 200 -i 6
+proxywallet 97fee5adbbf58374ae54a4a085be5a099e47653a
+#proxywallet Browneout
+proxypool1 eu1.ethermine.org:4444
+proxypool2 us1.ethermine.org:4444
+#proxypool1 btcz.suprnova.cc:5586
+#flags --cl-global-work 8192 --farm-recheck 200 -i 6
+flags --cl-global-work 8192 --farm-recheck 200
 #globalfan 30
-#globalminer claymore
-globalminer claymore-zcash
-poolpass1 x
+globalminer claymore
+#globalminer claymore-zcash
+#poolpass1 x
 
 cor f5d04c 1100 1100 1100 1100 1100
 mem f5d04c 2100 2100 2100 2100 2100
