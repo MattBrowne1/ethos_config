@@ -17,7 +17,7 @@ mem f5d04c 2100 2100 2100 2100 2100
 #fan f5d04c 30 30 30 30 30
 pwr f5d04c 4 4 4 4 4
 vlt f5d04c 800 800 850 800 800
-autoreboot 4
+autoreboot 5
 
 reb f5d04c 1
 
